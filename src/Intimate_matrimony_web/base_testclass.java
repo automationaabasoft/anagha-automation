@@ -95,8 +95,5 @@ public class base_testclass {
 	public By toyear = By.xpath("//*[@id=\"ciToYear\"]");
 	public By Careerinfofield = By.xpath("/html/body/div[2]/div/div/div[1]/div[9]/div/div[3]/div[2]/div[3]/div[3]/button[2]");
 	public By Careersavefield = By.xpath("//button[@data-type='CareerInfo']");
-	public By locationsavebuttonfield = By.xpath("//button[@data-type='LocationInfo']");
-	
-	
-	//ABC
+	public By locationsavebuttonfield = By.xpath("//button[@data-type='LocationInfo']");		
 }
