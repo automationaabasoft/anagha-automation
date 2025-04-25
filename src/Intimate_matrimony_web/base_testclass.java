@@ -98,4 +98,5 @@ public class base_testclass {
 	public By locationsavebuttonfield = By.xpath("//button[@data-type='LocationInfo']");
 	//ffff
 	//ddddd
+	//ggggg
 }
