@@ -320,10 +320,7 @@ public class intimate_profileupdate extends base_testclass {
 		WebElement careeraddbutton = driver.findElement(Careerinfofield);
 		js.executeScript("arguments[0].click();",careeraddbutton);
 		WebElement careerSavebutton = driver.findElement(Careersavefield);
-		js.executeScript("arguments[0].click();",careerSavebutton);	
-		
-		//hhtgyhhh
-		//hhhhh
+		js.executeScript("arguments[0].click();",careerSavebutton);					
 	}
 
 	 @Test(priority=5)//partner preference
