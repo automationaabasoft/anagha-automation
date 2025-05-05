@@ -97,5 +97,5 @@ public class base_testclass {
 	public By Careersavefield = By.xpath("//button[@data-type='CareerInfo']");
 	public By locationsavebuttonfield = By.xpath("//button[@data-type='LocationInfo']");
 	
-	//ABC
+	
 }
